@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "The Importance of Sleep",
+    "body": "A good night's sleep is crucial for overall health and well-being."
+  },
+  {
+    "id": 2,
+    "title": "Healthy Eating Habits",
+    "body": "Tips for maintaining a healthy diet and lifestyle."
+  },
+  {
+    "id": 3,
+    "title": "Exercising for Fitness",
+    "body": "The benefits of regular exercise and staying active."
+  },
+  {
+    "id": 4,
+    "title": "Mental Health Awareness",
+    "body": "Understanding and promoting mental well-being."
+  },
+  {
+    "id": 5,
+    "title": "Travel Adventures",
+    "body": "Exploring the world and discovering new cultures."
+  },
+  {
+    "id": 6,
+    "title": "Digital Detox",
+    "body": "The importance of taking breaks from technology for mental clarity."
+  },
+  {
+    "id": 7,
+    "title": "Effective Time Management",
+    "body": "Strategies for optimizing productivity and managing time efficiently."
+  },
+  {
+    "id": 8,
+    "title": "Mindfulness Meditation",
+    "body": "Benefits of mindfulness meditation for stress reduction and focus."
+  },
+  {
+    "id": 9,
+    "title": "Creative Writing Tips",
+    "body": "Techniques for improving writing skills and fostering creativity."
+  },
+  {
+    "id": 10,
+    "title": "Photography Basics",
+    "body": "An introduction to photography fundamentals for beginners."
+  }
+]
+
